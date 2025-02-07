@@ -1,6 +1,6 @@
 ### What's up! My name is Manoel 😀
 
-I'm a student in the Technology of Internet Systems (TSI) - IFRN and here are some technologies I know and practice:    
+I'm a computer technician and a student in the Internet Systems Technology (TSI) program at IFRN. Here are some technologies I know and work with:    
 
 #### languages    
 
@@ -30,6 +30,7 @@ I'm a student in the Technology of Internet Systems (TSI) - IFRN and here are so
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### DevOps  
 
